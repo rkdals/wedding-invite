@@ -11,7 +11,7 @@ body {
   font: 14px/32px SunBatang;
   height: 100%;
   margin: auto;
-  max-width: 540px;
+  max-width: 480px;
   padding-bottom: 24px;
   text-align: center;
   width: 100%;
@@ -100,7 +100,7 @@ input::placeholder, textarea::placeholder {
   padding: 4px 20px;
 }
 #map {
-  height: 300px;
+  height: 240px;
   width: 100%;
 }
 .entry {
